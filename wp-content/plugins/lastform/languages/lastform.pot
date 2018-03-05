@@ -1,0 +1,363 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lastform\n"
+"POT-Creation-Date: 2016-10-03 12:07-0300\n"
+"PO-Revision-Date: 2016-09-21 21:23-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: lastform.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-lastform-activator.php:28
+msgid "You need to install and activate Gravity Form first."
+msgstr ""
+
+#: includes/class-lastform.php:310
+msgid "The slug between your site URL and the form id. E.g.: "
+msgstr ""
+
+#: includes/class-lastform.php:310 includes/class-lastform.php:539
+#: includes/class-lastform.php:547
+msgid "WARNING:"
+msgstr ""
+
+#: includes/class-lastform.php:310
+msgid "You need to flush your Rewrite Rules after changing it. Go to the"
+msgstr ""
+
+#: includes/class-lastform.php:310
+msgid "Permalinks page"
+msgstr ""
+
+#: includes/class-lastform.php:310
+msgid "and click \"Save Changes\" to flush the rules."
+msgstr ""
+
+#: includes/class-lastform.php:311
+msgid "Form URL Slug"
+msgstr ""
+
+#: includes/class-lastform.php:323
+msgid "Lastform settings"
+msgstr ""
+
+#: includes/class-lastform.php:327
+msgid "Welcome screen"
+msgstr ""
+
+#: includes/class-lastform.php:330
+msgid "Enable Welcome Screen?"
+msgstr ""
+
+#: includes/class-lastform.php:335
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-lastform.php:342 includes/class-lastform.php:403
+msgid "Image URL"
+msgstr ""
+
+#: includes/class-lastform.php:345 includes/class-lastform.php:406
+msgid "Paste the FULL image URL"
+msgstr ""
+
+#: includes/class-lastform.php:350
+msgid "Text"
+msgstr ""
+
+#: includes/class-lastform.php:356
+msgid "Start button text"
+msgstr ""
+
+#: includes/class-lastform.php:363
+msgid "Colors"
+msgstr ""
+
+#: includes/class-lastform.php:366
+msgid "Question color"
+msgstr ""
+
+#: includes/class-lastform.php:369 includes/class-lastform.php:377
+#: includes/class-lastform.php:385 includes/class-lastform.php:393
+msgid "HEX color code"
+msgstr ""
+
+#: includes/class-lastform.php:374
+msgid "Answer color"
+msgstr ""
+
+#: includes/class-lastform.php:382
+msgid "Button color"
+msgstr ""
+
+#: includes/class-lastform.php:390
+msgid "Background color"
+msgstr ""
+
+#: includes/class-lastform.php:400
+msgid "Background image"
+msgstr ""
+
+#: includes/class-lastform.php:411
+msgid "Scaling"
+msgstr ""
+
+#: includes/class-lastform.php:414
+msgid "How the image will be displayed in your form background."
+msgstr ""
+
+#: includes/class-lastform.php:419
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/class-lastform.php:423
+msgid "Repeat"
+msgstr ""
+
+#: includes/class-lastform.php:427
+msgid "No repeat"
+msgstr ""
+
+#: includes/class-lastform.php:433
+msgid "Luminosity"
+msgstr ""
+
+#: includes/class-lastform.php:436
+msgid ""
+"Depending of your image, you will need to configure this to improve "
+"readability."
+msgstr ""
+
+#: includes/class-lastform.php:441
+msgid "Darker"
+msgstr ""
+
+#: includes/class-lastform.php:445
+msgid "Lighter"
+msgstr ""
+
+#: includes/class-lastform.php:451
+msgid "Luminosity level %"
+msgstr ""
+
+#: includes/class-lastform.php:454
+msgid "The amount of luminosity to apply over your image. From 0 to 100."
+msgstr ""
+
+#: includes/class-lastform.php:455 includes/class-lastform.php:511
+msgid "0 to 100"
+msgstr ""
+
+#: includes/class-lastform.php:460
+msgid "Fonts"
+msgstr ""
+
+#: includes/class-lastform.php:463
+msgid "Google Font Code"
+msgstr ""
+
+#: includes/class-lastform.php:466 includes/class-lastform.php:475
+msgid "Get your here: "
+msgstr ""
+
+#: includes/class-lastform.php:466
+msgid "How to find the code?"
+msgstr ""
+
+#: includes/class-lastform.php:469
+msgid "E.g.: Some+Font+Name:300,300i,600,600i"
+msgstr ""
+
+#: includes/class-lastform.php:472
+msgid "Font Family Name"
+msgstr ""
+
+#: includes/class-lastform.php:475
+msgid "How to find the font family name?"
+msgstr ""
+
+#: includes/class-lastform.php:477
+msgid "E.g.: Source Sans Pro"
+msgstr ""
+
+#: includes/class-lastform.php:482
+msgid "General"
+msgstr ""
+
+#: includes/class-lastform.php:485
+msgid "Progress box"
+msgstr ""
+
+#: includes/class-lastform.php:491
+msgid "Percentage % (E.g.: position: 66%)"
+msgstr ""
+
+#: includes/class-lastform.php:495
+msgid "Proportional (viewing 4 of 6)"
+msgstr ""
+
+#: includes/class-lastform.php:499
+msgid "None"
+msgstr ""
+
+#: includes/class-lastform.php:506
+msgid "Unfocused fields transparency level %"
+msgstr ""
+
+#: includes/class-lastform.php:509
+msgid ""
+"The amount of transparency to apply over unfocused fields. From 0 to 100."
+msgstr ""
+
+#: includes/class-lastform.php:514
+msgid "Favicon"
+msgstr ""
+
+#: includes/class-lastform.php:517
+msgid "Your favicon URL"
+msgstr ""
+
+#: includes/class-lastform.php:519
+msgid "http://some-site.com/favicon.png"
+msgstr ""
+
+#: includes/class-lastform.php:524
+msgid "Custom code"
+msgstr ""
+
+#: includes/class-lastform.php:527
+msgid "Analytics, Pixel Code etc..."
+msgstr ""
+
+#: includes/class-lastform.php:530
+msgid "Paste here your custom HTML code."
+msgstr ""
+
+#: includes/class-lastform.php:533
+msgid ""
+"Paste here your FB Pixel Code, Google Analytcs code or any other code "
+"snippet you want."
+msgstr ""
+
+#: includes/class-lastform.php:536
+msgid "CSS code"
+msgstr ""
+
+#: includes/class-lastform.php:539
+msgid "Paste here your custom CSS code."
+msgstr ""
+
+#: includes/class-lastform.php:539 includes/class-lastform.php:547
+msgid "Without "
+msgstr ""
+
+#: includes/class-lastform.php:541 includes/class-lastform.php:549
+msgid "E.g.: body { background-color: #c0ffee; }"
+msgstr ""
+
+#: includes/class-lastform.php:544
+msgid "JavaScript code"
+msgstr ""
+
+#: includes/class-lastform.php:547
+msgid "Paste here your custom JavaScript code."
+msgstr ""
+
+#: includes/class-lastform.php:570
+msgid "Open Lastform"
+msgstr ""
+
+#: includes/class-lastform.php:572
+msgid "View this form in Lastform"
+msgstr ""
+
+#: public/class-lastform-public.php:152
+msgid "Choose as many as you like and"
+msgstr ""
+
+#: public/class-lastform-public.php:152
+msgid "press ENTER"
+msgstr ""
+
+#: public/class-lastform-public.php:153
+msgid "Choose as many as you like"
+msgstr ""
+
+#: public/class-lastform-public.php:154
+msgid "Key"
+msgstr ""
+
+#: public/class-lastform-public.php:155
+msgid "To add a paragraph, press "
+msgstr ""
+
+#: public/class-lastform-public.php:155
+msgid "SHIFT + ENTER"
+msgstr ""
+
+#: public/class-lastform-public.php:156
+msgid "Upload"
+msgstr ""
+
+#: public/class-lastform-public.php:157
+#: public/partials/lastform-public-display.php:107
+#: public/partials/lastform-public-display.php:115
+msgid "press"
+msgstr ""
+
+#: public/class-lastform-public.php:157
+#: public/partials/lastform-public-display.php:107
+#: public/partials/lastform-public-display.php:115
+msgid "ENTER"
+msgstr ""
+
+#: public/class-lastform-public.php:158
+msgid "position: $1"
+msgstr ""
+
+#: public/class-lastform-public.php:159
+msgid "viewing $1 of $2"
+msgstr ""
+
+#: public/partials/lastform-public-display.php:27
+msgid "Start"
+msgstr ""
+
+#: public/partials/lastform-public-display.php:83
+msgid "Loading"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Lastform"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://codecanyon.net/item/lastform-affordable-typeform-"
+"alternative/17870313?ref=meydjer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Affordable Typeform alternative"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Meydjer Windmüller"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://meydjer.com"
+msgstr ""

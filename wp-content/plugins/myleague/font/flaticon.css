@@ -1,0 +1,250 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/04/2017 08:12
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-nerd-3:before { content: "\f100"; }
+.flaticon-002-ginger:before { content: "\f101"; }
+.flaticon-003-happy-16:before { content: "\f102"; }
+.flaticon-004-scared-3:before { content: "\f103"; }
+.flaticon-005-sick-4:before { content: "\f104"; }
+.flaticon-006-tired-3:before { content: "\f105"; }
+.flaticon-007-smug-6:before { content: "\f106"; }
+.flaticon-008-dead-6:before { content: "\f107"; }
+.flaticon-009-rich-2:before { content: "\f108"; }
+.flaticon-010-dazed-3:before { content: "\f109"; }
+.flaticon-011-confused-3:before { content: "\f10a"; }
+.flaticon-012-surprised-1:before { content: "\f10b"; }
+.flaticon-013-angry-5:before { content: "\f10c"; }
+.flaticon-014-sceptic-7:before { content: "\f10d"; }
+.flaticon-015-happy-15:before { content: "\f10e"; }
+.flaticon-016-kiss-4:before { content: "\f10f"; }
+.flaticon-017-yawning-3:before { content: "\f110"; }
+.flaticon-018-happy-14:before { content: "\f111"; }
+.flaticon-019-laughing-3:before { content: "\f112"; }
+.flaticon-020-smug-5:before { content: "\f113"; }
+.flaticon-021-in-love-6:before { content: "\f114"; }
+.flaticon-022-sceptic-6:before { content: "\f115"; }
+.flaticon-023-asian-1:before { content: "\f116"; }
+.flaticon-024-angry-4:before { content: "\f117"; }
+.flaticon-025-dead-5:before { content: "\f118"; }
+.flaticon-026-in-love-5:before { content: "\f119"; }
+.flaticon-027-kiss-3:before { content: "\f11a"; }
+.flaticon-028-baby-2:before { content: "\f11b"; }
+.flaticon-029-happy-13:before { content: "\f11c"; }
+.flaticon-030-sad-6:before { content: "\f11d"; }
+.flaticon-031-happy-12:before { content: "\f11e"; }
+.flaticon-032-rich-1:before { content: "\f11f"; }
+.flaticon-033-angry-3:before { content: "\f120"; }
+.flaticon-034-superhero-4:before { content: "\f121"; }
+.flaticon-035-superhero-3:before { content: "\f122"; }
+.flaticon-036-superhero-2:before { content: "\f123"; }
+.flaticon-037-superhero-1:before { content: "\f124"; }
+.flaticon-038-superhero:before { content: "\f125"; }
+.flaticon-039-gentleman-4:before { content: "\f126"; }
+.flaticon-040-dazed-2:before { content: "\f127"; }
+.flaticon-041-yawning-2:before { content: "\f128"; }
+.flaticon-042-happy-11:before { content: "\f129"; }
+.flaticon-043-rich:before { content: "\f12a"; }
+.flaticon-044-sad-5:before { content: "\f12b"; }
+.flaticon-045-smug-4:before { content: "\f12c"; }
+.flaticon-046-vampire-1:before { content: "\f12d"; }
+.flaticon-047-pirate-2:before { content: "\f12e"; }
+.flaticon-048-happy-10:before { content: "\f12f"; }
+.flaticon-049-secret:before { content: "\f130"; }
+.flaticon-050-creepy:before { content: "\f131"; }
+.flaticon-051-gentleman-3:before { content: "\f132"; }
+.flaticon-052-hipster-2:before { content: "\f133"; }
+.flaticon-053-ninja:before { content: "\f134"; }
+.flaticon-054-sceptic-5:before { content: "\f135"; }
+.flaticon-055-happy-9:before { content: "\f136"; }
+.flaticon-056-angry-2:before { content: "\f137"; }
+.flaticon-057-dead-4:before { content: "\f138"; }
+.flaticon-058-shocked-3:before { content: "\f139"; }
+.flaticon-059-sick-3:before { content: "\f13a"; }
+.flaticon-060-kiss-2:before { content: "\f13b"; }
+.flaticon-061-kiss-1:before { content: "\f13c"; }
+.flaticon-062-doctor:before { content: "\f13d"; }
+.flaticon-063-baby-1:before { content: "\f13e"; }
+.flaticon-064-smug-3:before { content: "\f13f"; }
+.flaticon-065-happy-8:before { content: "\f140"; }
+.flaticon-066-evil:before { content: "\f141"; }
+.flaticon-067-angel:before { content: "\f142"; }
+.flaticon-068-crying-3:before { content: "\f143"; }
+.flaticon-069-laughing-2:before { content: "\f144"; }
+.flaticon-070-in-love-4:before { content: "\f145"; }
+.flaticon-071-in-love-3:before { content: "\f146"; }
+.flaticon-072-in-love-2:before { content: "\f147"; }
+.flaticon-073-happy-7:before { content: "\f148"; }
+.flaticon-074-smiling-1:before { content: "\f149"; }
+.flaticon-075-sceptic-4:before { content: "\f14a"; }
+.flaticon-076-joyful-2:before { content: "\f14b"; }
+.flaticon-077-shocked-2:before { content: "\f14c"; }
+.flaticon-078-relieved:before { content: "\f14d"; }
+.flaticon-079-sad-4:before { content: "\f14e"; }
+.flaticon-080-sad-3:before { content: "\f14f"; }
+.flaticon-081-sad-2:before { content: "\f150"; }
+.flaticon-082-happy-6:before { content: "\f151"; }
+.flaticon-083-silent:before { content: "\f152"; }
+.flaticon-084-punk-2:before { content: "\f153"; }
+.flaticon-085-goofy-4:before { content: "\f154"; }
+.flaticon-086-dead-3:before { content: "\f155"; }
+.flaticon-087-gentleman-2:before { content: "\f156"; }
+.flaticon-088-smug-2:before { content: "\f157"; }
+.flaticon-089-goofy-3:before { content: "\f158"; }
+.flaticon-090-sporty:before { content: "\f159"; }
+.flaticon-091-rockstar:before { content: "\f15a"; }
+.flaticon-092-alien-1:before { content: "\f15b"; }
+.flaticon-093-smug-1:before { content: "\f15c"; }
+.flaticon-094-tired-2:before { content: "\f15d"; }
+.flaticon-095-heisenberg:before { content: "\f15e"; }
+.flaticon-096-sick-2:before { content: "\f15f"; }
+.flaticon-097-vampire:before { content: "\f160"; }
+.flaticon-098-zombie:before { content: "\f161"; }
+.flaticon-099-flirt-2:before { content: "\f162"; }
+.flaticon-100-grubby-1:before { content: "\f163"; }
+.flaticon-101-yawning-1:before { content: "\f164"; }
+.flaticon-102-sceptic-3:before { content: "\f165"; }
+.flaticon-103-dazed-1:before { content: "\f166"; }
+.flaticon-104-sick-1:before { content: "\f167"; }
+.flaticon-105-in-love-1:before { content: "\f168"; }
+.flaticon-106-scared-2:before { content: "\f169"; }
+.flaticon-107-thinking:before { content: "\f16a"; }
+.flaticon-108-sad-1:before { content: "\f16b"; }
+.flaticon-109-confused-2:before { content: "\f16c"; }
+.flaticon-110-wink-2:before { content: "\f16d"; }
+.flaticon-111-kiss:before { content: "\f16e"; }
+.flaticon-112-nerd-2:before { content: "\f16f"; }
+.flaticon-113-girl-1:before { content: "\f170"; }
+.flaticon-114-agent:before { content: "\f171"; }
+.flaticon-115-avatar:before { content: "\f172"; }
+.flaticon-116-girl:before { content: "\f173"; }
+.flaticon-117-afro-1:before { content: "\f174"; }
+.flaticon-118-burglar:before { content: "\f175"; }
+.flaticon-119-desperate-1:before { content: "\f176"; }
+.flaticon-120-nerd-1:before { content: "\f177"; }
+.flaticon-121-pirate-1:before { content: "\f178"; }
+.flaticon-122-skeleton:before { content: "\f179"; }
+.flaticon-123-harry-potter:before { content: "\f17a"; }
+.flaticon-124-surprised:before { content: "\f17b"; }
+.flaticon-125-gentleman-1:before { content: "\f17c"; }
+.flaticon-126-hipster-1:before { content: "\f17d"; }
+.flaticon-127-smoked:before { content: "\f17e"; }
+.flaticon-128-tough-1:before { content: "\f17f"; }
+.flaticon-129-detective:before { content: "\f180"; }
+.flaticon-130-laughing-1:before { content: "\f181"; }
+.flaticon-131-punk-1:before { content: "\f182"; }
+.flaticon-132-japan:before { content: "\f183"; }
+.flaticon-133-pirate:before { content: "\f184"; }
+.flaticon-134-faint-1:before { content: "\f185"; }
+.flaticon-135-manly:before { content: "\f186"; }
+.flaticon-136-flirt-1:before { content: "\f187"; }
+.flaticon-137-tired-1:before { content: "\f188"; }
+.flaticon-138-desperate:before { content: "\f189"; }
+.flaticon-139-crying-2:before { content: "\f18a"; }
+.flaticon-140-dissapointment:before { content: "\f18b"; }
+.flaticon-141-happy-5:before { content: "\f18c"; }
+.flaticon-142-nerd:before { content: "\f18d"; }
+.flaticon-143-flirt:before { content: "\f18e"; }
+.flaticon-144-scared-1:before { content: "\f18f"; }
+.flaticon-145-emo-2:before { content: "\f190"; }
+.flaticon-146-grubby:before { content: "\f191"; }
+.flaticon-147-geek-1:before { content: "\f192"; }
+.flaticon-148-jew:before { content: "\f193"; }
+.flaticon-149-clown:before { content: "\f194"; }
+.flaticon-150-emo-1:before { content: "\f195"; }
+.flaticon-151-goofy-2:before { content: "\f196"; }
+.flaticon-152-dumb:before { content: "\f197"; }
+.flaticon-153-tough:before { content: "\f198"; }
+.flaticon-154-tired:before { content: "\f199"; }
+.flaticon-155-happy-4:before { content: "\f19a"; }
+.flaticon-156-sceptic-2:before { content: "\f19b"; }
+.flaticon-157-smug:before { content: "\f19c"; }
+.flaticon-158-angry-1:before { content: "\f19d"; }
+.flaticon-159-cheeky-1:before { content: "\f19e"; }
+.flaticon-160-miserly-1:before { content: "\f19f"; }
+.flaticon-161-yelling:before { content: "\f1a0"; }
+.flaticon-162-baby:before { content: "\f1a1"; }
+.flaticon-163-wink-1:before { content: "\f1a2"; }
+.flaticon-164-confused-1:before { content: "\f1a3"; }
+.flaticon-165-happy-3:before { content: "\f1a4"; }
+.flaticon-166-wink:before { content: "\f1a5"; }
+.flaticon-167-yawning:before { content: "\f1a6"; }
+.flaticon-168-alien:before { content: "\f1a7"; }
+.flaticon-169-confused:before { content: "\f1a8"; }
+.flaticon-170-joyful-1:before { content: "\f1a9"; }
+.flaticon-171-love:before { content: "\f1aa"; }
+.flaticon-172-smiling:before { content: "\f1ab"; }
+.flaticon-173-dead-2:before { content: "\f1ac"; }
+.flaticon-174-goofy-1:before { content: "\f1ad"; }
+.flaticon-175-shocked-1:before { content: "\f1ae"; }
+.flaticon-176-happy-2:before { content: "\f1af"; }
+.flaticon-177-cheeky:before { content: "\f1b0"; }
+.flaticon-178-faint:before { content: "\f1b1"; }
+.flaticon-179-miserly:before { content: "\f1b2"; }
+.flaticon-180-goofy:before { content: "\f1b3"; }
+.flaticon-181-stunned:before { content: "\f1b4"; }
+.flaticon-182-arrogant:before { content: "\f1b5"; }
+.flaticon-183-angry:before { content: "\f1b6"; }
+.flaticon-184-drunk:before { content: "\f1b7"; }
+.flaticon-185-happy-1:before { content: "\f1b8"; }
+.flaticon-186-crying-1:before { content: "\f1b9"; }
+.flaticon-187-dazed:before { content: "\f1ba"; }
+.flaticon-188-shocked:before { content: "\f1bb"; }
+.flaticon-189-winking-1:before { content: "\f1bc"; }
+.flaticon-190-laughing:before { content: "\f1bd"; }
+.flaticon-191-flirty:before { content: "\f1be"; }
+.flaticon-192-in-love:before { content: "\f1bf"; }
+.flaticon-193-afro:before { content: "\f1c0"; }
+.flaticon-194-dead-1:before { content: "\f1c1"; }
+.flaticon-195-sceptic-1:before { content: "\f1c2"; }
+.flaticon-196-sceptic:before { content: "\f1c3"; }
+.flaticon-197-arguing:before { content: "\f1c4"; }
+.flaticon-198-dead:before { content: "\f1c5"; }
+.flaticon-199-geek:before { content: "\f1c6"; }
+.flaticon-200-bully:before { content: "\f1c7"; }
+.flaticon-201-trendy:before { content: "\f1c8"; }
+.flaticon-202-rapper:before { content: "\f1c9"; }
+.flaticon-203-emo:before { content: "\f1ca"; }
+.flaticon-204-emoticon:before { content: "\f1cb"; }
+.flaticon-205-gentleman:before { content: "\f1cc"; }
+.flaticon-206-sick:before { content: "\f1cd"; }
+.flaticon-207-scared:before { content: "\f1ce"; }
+.flaticon-208-happy:before { content: "\f1cf"; }
+.flaticon-209-sad:before { content: "\f1d0"; }
+.flaticon-210-joyful:before { content: "\f1d1"; }
+.flaticon-211-listening:before { content: "\f1d2"; }
+.flaticon-212-asian:before { content: "\f1d3"; }
+.flaticon-213-gangster:before { content: "\f1d4"; }
+.flaticon-214-businessman:before { content: "\f1d5"; }
+.flaticon-215-punk:before { content: "\f1d6"; }
+.flaticon-216-hipster:before { content: "\f1d7"; }
+.flaticon-217-crying:before { content: "\f1d8"; }
+.flaticon-218-winking:before { content: "\f1d9"; }
+.flaticon-219-smile:before { content: "\f1da"; }

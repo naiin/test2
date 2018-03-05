@@ -1,0 +1,52 @@
+/* Hussnain Raza */
+/* My League Plugin CSS*/
+.my-league-row{
+text-align:center;
+width:100%;
+    border: 2px solid #ccc;
+    margin-bottom: 20px !important;
+    border-radius: 5px !important;
+    background: rgba(0,0,0,0.1);
+}
+
+.my-league-row .et_pb_column_1_3 {
+    /* text-align: center; */
+    float: left;
+}
+.my-league-answer{
+
+    margin-left: 30px;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.my-league-answer img {
+    width: 100px;
+}
+.my-league-answer p{
+}
+.my-league-answer-options{
+	width: 70%;
+	float: right;
+}
+.result-section{
+    cursor: pointer;
+}
+.my-league-answer-options div {
+    float: left;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.glyph .glyph-icon:before {
+    font-size: 100px;
+    color: #222;
+    margin-left: 0;
+}
+.glyph .glyph-icon {
+    padding: 10px;
+    display: block;
+    font-family: "Flaticon";
+    font-size: 64px;
+    line-height: 1;
+}
